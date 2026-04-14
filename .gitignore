@@ -56,3 +56,7 @@ strategies/
 # Misc
 *.log
 .env
+
+# pi
+.pi
+
